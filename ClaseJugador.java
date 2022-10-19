@@ -1,8 +1,5 @@
 package PrototiposClases;
 
-import java.sql.*;
-import javax.sql.*;
-
 public class ClaseJugador {
 	
 	public String nombre;
